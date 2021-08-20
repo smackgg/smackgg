@@ -6,7 +6,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 📫 Reach me: smackgg@gmail.com;
 
-<p align="center"> 
+<p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/smackgg/count.svg" />
 </p>
