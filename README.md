@@ -6,6 +6,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 📫 Reach me: smackgg@gmail.com;
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/smackgg/count.svg" />
+</p>
+
 📈 My GitHub Stats
 
 <img align="left" style="display:block;width:500px;" src="https://github-readme-stats.vercel.app/api?username=smackgg&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
