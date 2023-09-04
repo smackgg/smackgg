@@ -39,6 +39,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 长期招：资深node/资深前端/资深移动端～
 
-请毫不犹豫地往邮箱投递简历，如果有进一步沟通的想法，可以在邮件中向我询问我的微信，简历发送至 xuyan08@kuaishou.com
+请毫不犹豫地往邮箱投递简历，如果有进一步沟通的想法，可以在邮件中向我询问我的微信，简历发送至 smackgg@gmail.com
 
 <img align="left" src="https://static.yximgs.com/udata/pkg/fe/kwai_home_logo.9fa14a37.png">
