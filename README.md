@@ -1,6 +1,6 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I'm xuyan, a passionate expert engineer focus on Mobile and MiniProgram.
+I'm xuyan, a passionate expert engineer focus on collaborative editor.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -33,12 +33,3 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <br/>
 
-### 快手寻找优秀的你
-
-我们是快手效率工程团队，通过企业级应用和效率工具的构建，帮助快手「降本增效」，支撑快手快速发展。同时我们也是快手企业产品对外输出的拓展者，通过优质产品和理念，帮助企业提升协同和管理效率。
-
-长期招：资深node/资深前端/资深移动端～
-
-请毫不犹豫地往邮箱投递简历，如果有进一步沟通的想法，可以在邮件中向我询问我的微信，简历发送至 smackgg@gmail.com
-
-<img align="left" src="https://static.yximgs.com/udata/pkg/fe/kwai_home_logo.9fa14a37.png">
