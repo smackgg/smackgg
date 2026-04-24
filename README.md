@@ -1,10 +1,5 @@
-### Hi 
 📫 Reach me: smackgg@gmail.com;
 
-**Visitor count**
-<p> 
-  <img src="https://profile-counter.glitch.me/smackgg/count.svg" />
-</p>
 
 **📈 My GitHub Stats**
 
